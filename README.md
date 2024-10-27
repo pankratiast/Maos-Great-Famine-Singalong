@@ -1,6 +1,5 @@
 # Maos-Great-Famine-Singalong
 
-## Mao’s Great Famine, Singalong
 - AI-enhanced Historical Video Project (53 seconds, 9:16 format)
 
 ## Creative Flow and Process
