@@ -22,9 +22,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 
 ## Files
-- ‘MaosGreatFamine.mp4’: Main Video File (9:16 aspect ratio, 53 second duration)
+- ‘MaosGreatFamine,Singalong.mp4’: Main Video File (9:16 aspect ratio, 53 second duration)
 - ‘沒有共產黨就沒有新中國! Without the Communist Party, There Would be No New China!.mp3’
-- ‘source_images/‘ : [File of Propaganda Posters] [IRL pictures of famine] [Luma animated irl pics] 
+- ‘source_images/‘ : [Animated Poster Clips by Era] , [Chinese Poster dot net images], [Graphs], [IRL pictures of famine] , [Luma animated irl pics] , [Luma Animated Posters] , [Runway ML Videos] 
 
 ## Note
 Many files are redundant, and while I did my best to organize each in as legible a format as possible, it was difficult to clean and order folders after creative process took place.
