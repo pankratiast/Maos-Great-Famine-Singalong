@@ -1,6 +1,7 @@
 # Maos-Great-Famine-Singalong
 
 - AI-enhanced Historical Video Project (53 seconds, 9:16 format)
+https://youtube.com/shorts/0vbR0P0eoC4?feature=share
 
 ## Creative Flow and Process
 Research, consult sources —> Collect collateral, posters and real photography of era —> Enhance photography via PicWish/Pixelmator Pro —> Animate posters + photography via LumaLabs & RunwayML —> Edit in Final Cut Pro —> Color Grade in Final Cut Pro —> Add captions in CapCut —> Publish to Youtube
