@@ -3,7 +3,7 @@
 - AI-enhanced Historical Video Project (53 seconds, 9:16 format)
 
 ## Creative Flow and Process
-Research, consult sources —> Collect collateral, posters and real photography of era —> Enhance photography via PicWish/Pixelmator Pro —> Animate posters + photography via LumaLabs & RunwayML —> Edit in Final Cut Pro —> Color Grade in Final Cut Pro —> Add captions in CapCut —> Publish
+Research, consult sources —> Collect collateral, posters and real photography of era —> Enhance photography via PicWish/Pixelmator Pro —> Animate posters + photography via LumaLabs & RunwayML —> Edit in Final Cut Pro —> Color Grade in Final Cut Pro —> Add captions in CapCut —> Publish to Youtube
 
 ## Tools Used
 PicWish
@@ -21,8 +21,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 
 ## Files
-- ‘MaosGreatFamine,Singalong.mp4’: Main Video File (9:16 aspect ratio, 53 second duration)
-- ‘沒有共產黨就沒有新中國! Without the Communist Party, There Would be No New China!.mp3’
+- ‘MaosGreatFamine,Singalong.mp4’: Main Video File (9:16 aspect ratio, 53 second duration): https://youtube.com/shorts/0vbR0P0eoC4?feature=share
 - ‘source_images/‘ : [Animated Poster Clips by Era] , [Chinese Poster dot net images], [Graphs], [IRL pictures of famine] , [Luma animated irl pics] , [Luma Animated Posters] , [Runway ML Videos] 
 
 ## Note
