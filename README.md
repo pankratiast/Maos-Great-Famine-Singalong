@@ -23,14 +23,21 @@ https://creativecommons.org/licenses/by-sa/4.0/
     -[Eliminate the 4 Pests]
     -[great leap fwd clips]
     -[Mao Posters Animated]
+   
 [Chinese Poster dot net images]
     -[Propaganda Posters broken down by era]
+    
 [IRL pictures of famine]
     -[Enhanced Images]
+    
 [Luma animated irl pics]
+
 [Luma Animated Posters]
+
 [Runway ML Videos]
+
 [Graphs]
+
 [Mao's Great Famine, Singalone.mp4]
 
 Google Drive Link: https://drive.google.com/drive/folders/17Xz7H170rmHtwv2CZmQX6RUX7KrZKfTl?usp=sharing
