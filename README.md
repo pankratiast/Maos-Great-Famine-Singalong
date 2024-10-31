@@ -17,7 +17,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ## Files & Links
 - ‘MaosGreatFamine,Singalong.mp4’: Main Video File (9:16 aspect ratio, 53 second duration): https://youtube.com/shorts/0vbR0P0eoC4?feature=share
 
--  Google Drive Folder includes the following folders and corresponding sub-folders: 
+- Google Drive Folder includes the following folders and corresponding sub-folders:
+
 [Animated Poster Clips by Era]
     -[8 points of agriculture]
     -[Eliminate the 4 Pests]
