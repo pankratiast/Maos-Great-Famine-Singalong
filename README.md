@@ -50,4 +50,4 @@ You can view the prompts used for each animated clip in the file name. Additiona
 ## Note
 Many files are redundant, and while I did my best to organize each in as legible a format as possible, it was difficult to clean and order folders after creative process took place. Prompts and model used are included in title of video/image name.
 
-We must never permit communism to infect our minds and spirits.
+We must never permit the pestilence of communism to infect our minds and spirits.
