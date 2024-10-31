@@ -1,4 +1,4 @@
-# Maos-Great-Famine-Singalong
+# Maos-Great-Famine-Song-and-Files
 
 - AI-enhanced Historical Video Project (53 seconds, 9:16 format)
 https://youtube.com/shorts/0vbR0P0eoC4?feature=share
@@ -16,7 +16,15 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Files
 - ‘MaosGreatFamine,Singalong.mp4’: Main Video File (9:16 aspect ratio, 53 second duration): https://youtube.com/shorts/0vbR0P0eoC4?feature=share
--  Folders to Include: [Animated Poster Clips by Era] , [Chinese Poster dot net images], [Graphs], [IRL pictures of famine] , [Luma animated irl pics] , [Luma Animated Posters] , [Runway ML Videos] 
+-  Google Drive Folders Includes: 
+[Animated Poster Clips by Era]
+[Chinese Poster dot net images]
+[Graphs]
+[IRL pictures of famine]
+[Luma animated irl pics]
+[Luma Animated Posters]
+[Runway ML Videos]
+[Mao's Great Famine, Singalone.mp4]
 
 ## Note
 Many files are redundant, and while I did my best to organize each in as legible a format as possible, it was difficult to clean and order folders after creative process took place. Prompts and model used are included in title of video/image name
